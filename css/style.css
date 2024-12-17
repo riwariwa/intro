@@ -1,0 +1,60 @@
+.content {
+    background-color: rgb(203, 241, 220);
+}
+h1 {
+     font-size: 30px;
+     text-align: center;
+     padding: 10px;
+     color: rgb(95, 223, 246)
+}
+
+ h2 {
+    text-align:center;
+      font-size: 24px;
+      border: solid 5px rgb(114, 250, 132);
+      color :rgb(246, 113, 95)
+     
+}
+h3 {
+    text-align: center;
+    font-size: 25px;
+    margin: 0;
+    color: rgb(128, 0, 108);
+}
+h4 {
+    text-align: center;
+    font-size: 30px; 
+    color: rgb(250, 100, 200)
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+img{
+
+    width: 400px;
+    height: 400px;
+    padding: 30px;
+}
+
+.information ul{
+    list-style-type: disc;
+    margin-left: 0px;
+}
+
+.information li{
+    padding: 0 10px;
+    font-size: 24;
+}
+
+.linksyu {
+    margin-left:  750px;
+    
+    padding: 0;
+}
+.linksyu span {
+    font-weight: bold;
+    text-decoration: underline;
+}
